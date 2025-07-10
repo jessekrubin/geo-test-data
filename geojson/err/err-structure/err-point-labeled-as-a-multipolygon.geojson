@@ -3,9 +3,6 @@
   "properties": {},
   "geometry": {
     "type": "MultiPolygon",
-    "coordinates": [
-      -0.087890625,
-      51.56341232867588
-    ]
+    "coordinates": [-0.087890625, 51.56341232867588]
   }
 }
