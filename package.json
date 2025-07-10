@@ -4,8 +4,7 @@
   "version": "0.0.0",
   "author": "jessekrubin <jessekrubin@gmail.com>",
   "license": "MIT",
-  "keywords": [
-  ],
+  "keywords": [],
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
@@ -30,7 +29,7 @@
   },
   "devDependencies": {
     "@types/node": "^24.0.12",
-    "prettier": "^3.6.0",
+    "prettier": "^3.6.2",
     "tsx": "^4.20.3",
     "typescript": "^5.8.3"
   }

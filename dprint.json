@@ -1,22 +1,14 @@
 {
-  "typescript": {
-  },
+  "typescript": {},
   "json": {
     "indentWidth": 2,
     "useTabs": false,
-    "associations": [
-      ".prettierrc",
-      "*.geojson"
-    ]
+    "associations": [".prettierrc", "*.geojson"]
   },
-  "markdown": {
-  },
-  "toml": {
-  },
-  "dockerfile": {
-  },
-  "ruff": {
-  },
+  "markdown": {},
+  "toml": {},
+  "dockerfile": {},
+  "ruff": {},
   "includes": [
     "**/*.{ts,tsx,js,jsx,json,md,toml,Dockerfile,dockerfile,geojson}",
     "./**/{dockerfile,Dockerfile}"

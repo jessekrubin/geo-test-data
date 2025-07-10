@@ -8,7 +8,6 @@
   - `geojson/err/err-structure`: invalid structurally in such a way that a json-schema can verify it
   - `geojson/err/err-geom`: invalid according to the geojson spec and NOT structurally invalid as verifyable via json-schema
 
-
 Collected and cleaned up from:
 
 - geojson-invalid-geometry repo: https://github.com/chrieke/geojson-invalid-geometry
