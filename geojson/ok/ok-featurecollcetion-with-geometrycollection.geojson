@@ -8,10 +8,11 @@
         "type": "GeometryCollection",
         "geometries": [
           {
-            "coordinates": [11.691336, 51.804026],
-            "type": "Point"
+            "type": "Point",
+            "coordinates": [11.691336, 51.804026]
           },
           {
+            "type": "Polygon",
             "coordinates": [
               [
                 [12.624027, 52.326463],
@@ -20,8 +21,7 @@
                 [13.354359, 52.326463],
                 [12.624027, 52.326463]
               ]
-            ],
-            "type": "Polygon"
+            ]
           }
         ]
       }

@@ -1,15 +1,15 @@
 {
   "type": "Feature",
+  "bbox": [102, 0, 105, 1],
   "properties": {},
   "geometry": {
     "type": "LineString",
+    "bbox": [102, 0, 105, 1],
     "coordinates": [
       [102, 0],
       [103, 1],
       [104, 0],
       [105, 1]
-    ],
-    "bbox": [102, 0, 105, 1]
-  },
-  "bbox": [102, 0, 105, 1]
+    ]
+  }
 }

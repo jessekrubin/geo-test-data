@@ -1,9 +1,9 @@
 {
-  "id": "456",
   "type": "Feature",
+  "id": "456",
   "properties": {},
   "geometry": {
-    "coordinates": [11.691336, 51.804026],
-    "type": "Point"
+    "type": "Point",
+    "coordinates": [11.691336, 51.804026]
   }
 }
