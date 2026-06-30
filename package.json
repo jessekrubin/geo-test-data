@@ -1,10 +1,17 @@
 {
   "name": "geo-test-data",
-  "type": "module",
   "version": "0.0.0",
-  "author": "jessekrubin <jessekrubin@gmail.com>",
-  "license": "MIT",
   "keywords": [],
+  "license": "MIT",
+  "author": "jessekrubin <jessekrubin@gmail.com>",
+  "files": [
+    "dist",
+    "src"
+  ],
+  "type": "module",
+  "main": "dist/index.cjs",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
@@ -13,24 +20,17 @@
     },
     "./package.json": "./package.json"
   },
-  "main": "dist/index.cjs",
-  "module": "dist/index.js",
-  "types": "dist/index.d.ts",
-  "files": [
-    "dist",
-    "src"
-  ],
-  "engines": {
-    "node": ">=18"
-  },
   "scripts": {
     "fmt": "prettier --write .",
     "fmtc": "prettier --check ."
   },
   "devDependencies": {
-    "@types/node": "^25.9.2",
-    "prettier": "^3.9.4",
+    "@types/node": "^24.13.2",
+    "prettier": "^3.9.3",
     "tsx": "^4.22.4",
     "typescript": "^6.0.3"
+  },
+  "engines": {
+    "node": ">=22"
   }
 }
