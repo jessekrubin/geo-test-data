@@ -1,4 +1,5 @@
 {
+  "type": "Feature",
   "geometry": {
     "type": "Polygon",
     "coordinates": [
@@ -365,7 +366,6 @@
       [-80.59868, 41.21858]
     ]
   },
-  "type": "Feature",
   "properties": {
     "application_id": "811",
     "description": "WKTL BLED-1805",

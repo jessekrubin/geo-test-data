@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15,7 +14,8 @@
             [13.378261, 52.513389]
           ]
         ]
-      }
+      },
+      "properties": {}
     }
   ]
 }

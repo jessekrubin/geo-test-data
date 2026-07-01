@@ -3,36 +3,36 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
       "id": {},
       "geometry": {
         "type": "Point",
         "coordinates": [-100.8984375, "39.36827914916011"]
-      }
+      },
+      "properties": {}
     },
     {
       "type": "Feature",
-      "properties": {},
       "geometry": {
         "type": "Point",
         "coordinates": [20.390625, 41.508577]
-      }
+      },
+      "properties": {}
     },
     {
       "type": "Foo",
-      "properties": {},
       "geometry": {
         "type": "Point",
         "coordinates": [20.390625, 41.508577]
-      }
+      },
+      "properties": {}
     },
     {
       "type": "Foo",
-      "properties": {},
       "geometry": {
         "type": "Point",
         "coordinates": "foo"
-      }
+      },
+      "properties": {}
     }
   ]
 }

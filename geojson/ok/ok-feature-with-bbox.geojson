@@ -1,7 +1,6 @@
 {
   "type": "Feature",
   "bbox": [102, 0, 105, 1],
-  "properties": {},
   "geometry": {
     "type": "LineString",
     "bbox": [102, 0, 105, 1],
@@ -11,5 +10,6 @@
       [104, 0],
       [105, 1]
     ]
-  }
+  },
+  "properties": {}
 }

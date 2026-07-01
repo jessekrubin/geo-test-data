@@ -1,7 +1,5 @@
 {
   "type": "FeatureCollection",
-  "properties": {},
-  "coordinates": null,
   "features": [
     {
       "type": "Feature",
@@ -43,5 +41,7 @@
         "prop1": { "this": "that" }
       }
     }
-  ]
+  ],
+  "properties": {},
+  "coordinates": null
 }

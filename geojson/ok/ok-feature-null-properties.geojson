@@ -1,6 +1,5 @@
 {
   "type": "Feature",
-  "properties": null,
   "geometry": {
     "type": "Polygon",
     "coordinates": [
@@ -12,5 +11,6 @@
         [12.624027, 52.326463]
       ]
     ]
-  }
+  },
+  "properties": null
 }

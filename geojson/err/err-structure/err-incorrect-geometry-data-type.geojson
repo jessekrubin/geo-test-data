@@ -3,8 +3,8 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             [13.383092, 52.510235],
@@ -13,9 +13,9 @@
             [13.38458, 52.510235],
             [13.383092, 52.510235]
           ]
-        ],
-        "type": "LineString"
-      }
+        ]
+      },
+      "properties": {}
     }
   ]
 }

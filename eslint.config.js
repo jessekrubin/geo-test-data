@@ -40,7 +40,7 @@ export default jsse(
   },
 
   {
-    files: ["geojson/ok/**/*.geojson"],
+    files: ["geojson/**/*.geojson"],
 
     languageOptions: { parser: parserJsonc },
     rules: {
@@ -54,14 +54,15 @@ export default jsse(
             "name",
             "crs",
             "bbox",
-            "properties",
             "features",
             "geometry",
+            "properties",
             { keyPattern: ".*", order: { type: "asc" } },
           ],
           pathPattern: ".*",
         },
       ],
-    },
+    }
+
   },
 );
