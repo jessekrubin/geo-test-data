@@ -28,7 +28,7 @@
     "fmtc": "prettier --check ."
   },
   "devDependencies": {
-    "@jsse/eslint-config": "^0.9.5",
+    "@jsse/eslint-config": "^0.9.6",
     "@types/node": "^24.13.2",
     "eslint": "^10.7.0",
     "jsonc-eslint-parser": "^3.1.0",
