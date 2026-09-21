@@ -27,7 +27,7 @@
   "devDependencies": {
     "@jsse/eslint-config": "^0.9.22",
     "@types/node": "^24.13.3",
-    "eslint": "^10.10.0",
+    "eslint": "^10.11.0",
     "jsonc-eslint-parser": "^3.3.0",
     "prettier": "^3.9.6",
     "tsx": "^4.23.13",
